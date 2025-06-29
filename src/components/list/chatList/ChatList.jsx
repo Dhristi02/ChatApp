@@ -1,6 +1,7 @@
 import { useState } from "react"
 import "./chatList.css"
 import { preview } from "vite"
+import AddUser from "./addUser/addUser"
 const ChatList = () => {
     const[addMode,setAddMode]=useState(false)
     return (
@@ -37,6 +38,7 @@ const ChatList = () => {
                     <p>Hello</p>
                 </div>
             </div>
+            {addMode && <AddUser/>}
         </div>
     )
 }
