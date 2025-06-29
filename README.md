@@ -3,7 +3,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 =======
-💬 React Firebase Real-Time Chat Application
+💬 React Firebase Real-Time Chat Application.
 Welcome to my Real-Time Chat App, a full-stack messaging platform I built using React.js and Firebase. It offers instant messaging, media sharing, and user management features — all wrapped in a smooth, modern UI with glassmorphism styling.
 
 
